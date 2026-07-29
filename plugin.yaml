@@ -1,0 +1,51 @@
+id: lumide_material_theme
+name: Community Material Theme
+description: >
+  Community Material Theme color schemes for the Lumide IDE.
+entry_point: 'bin/main.dart'
+publisher: pryspace
+
+contributes:
+  themes:
+    - id: material-default
+      label: Community Material Theme
+      uiTheme: dark
+      path: assets/themes/default.json
+    - id: material-default-hc
+      label: Community Material Theme High Contrast
+      uiTheme: high-contrast
+      path: assets/themes/default-hc.json
+    - id: material-darker
+      label: Community Material Theme Darker
+      uiTheme: dark
+      path: assets/themes/darker.json
+    - id: material-darker-hc
+      label: Community Material Theme Darker High Contrast
+      uiTheme: high-contrast
+      path: assets/themes/darker-hc.json
+    - id: material-palenight
+      label: Community Material Theme Palenight
+      uiTheme: dark
+      path: assets/themes/palenight.json
+    - id: material-palenight-hc
+      label: Community Material Theme Palenight High Contrast
+      uiTheme: high-contrast
+      path: assets/themes/palenight-hc.json
+    - id: material-ocean
+      label: Community Material Theme Ocean
+      uiTheme: dark
+      path: assets/themes/ocean.json
+    - id: material-ocean-hc
+      label: Community Material Theme Ocean High Contrast
+      uiTheme: high-contrast
+      path: assets/themes/ocean-hc.json
+    - id: material-lighter
+      label: Community Material Theme Lighter
+      uiTheme: light
+      path: assets/themes/lighter.json
+    - id: material-lighter-hc
+      label: Community Material Theme Lighter High Contrast
+      uiTheme: high-contrast
+      path: assets/themes/lighter-hc.json
+
+permissions: []

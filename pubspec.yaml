@@ -1,0 +1,20 @@
+name: lumide_material_theme
+description: "Community Material Theme color schemes for the Lumide IDE."
+version: 0.1.0
+homepage: https://lumide.dev
+repository: https://github.com/optiflowx/lumide_material_theme
+
+topics:
+  - lumide-themes
+  - lumide-plugin
+
+environment:
+  sdk: '>=3.12.1 <4.0.0'
+
+resolution: workspace
+
+dependencies:
+  lumide_api: 1.8.0
+
+dev_dependencies:
+  lints: ^6.0.0

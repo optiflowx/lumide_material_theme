@@ -1,0 +1,17 @@
+Community Material Theme for Lumide
+===================================
+
+This package redistributes Material Theme color schemes under the Apache
+License, Version 2.0.
+
+Upstream projects and authors:
+
+  - Community Material Theme
+    https://github.com/myambitions/vsc-community-material-theme
+    Copyright 2017 Mattia Astorino, Alessio Occhipinti
+
+  - Safe Material Theme (plaintext theme JSON used because the Community
+    Material Theme repository stores AES-encrypted theme blobs)
+    https://github.com/k-i-o/vsc-safe-material-theme
+
+See the LICENSE file for the full Apache-2.0 text.
